@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: '15th-sept'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5ac9eced85da49269648900e26f442ee }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1c83fe3c1cc847409371b2a9140be9b9 }}
         package: '*.jar'
